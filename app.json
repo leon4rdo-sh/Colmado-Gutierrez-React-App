@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Colmado Gutierrez",
+    "slug": "Colmado-Gutierrez",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.leon4rdo.dev.ColmadoGutierrez"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "863549b9-a7a7-4026-a5d4-7022f3a6ada1"
+      }
+    }
+  }
+}
